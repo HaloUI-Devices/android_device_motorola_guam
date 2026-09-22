@@ -40,6 +40,7 @@ $(call soong_config_set_bool,livedisplay_sysfs,enable_ab,true)
 PRODUCT_PACKAGES += \
     FrameworksResDevice \
     Launcher3OverlayGuam \
+    SettingsOverlayGuam \
     FrameworksResDeviceXT2081-4 \
     LineagePlatformDevice \
     SystemUIResDevice \
