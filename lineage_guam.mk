@@ -26,3 +26,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="guam_retail-user 10 QPZ30.30-Q3-38-69-14 25018 release-keys" \
     BuildFingerprint=motorola/guam_retail/guam:10/QPZ30.30-Q3-38-69-14/25018:user/release-keys \
     DeviceProduct=guam_retail
+
+# Flags
+TARGET_ENABLE_BLUR := true
+TARGET_FACE_UNLOCK_SUPPORTED := true
