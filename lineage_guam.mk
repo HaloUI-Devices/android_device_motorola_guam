@@ -28,5 +28,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=guam_retail
 
 # Flags
+HALOUI_MAINTAINER := cinnamonbunni
 TARGET_ENABLE_BLUR := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
